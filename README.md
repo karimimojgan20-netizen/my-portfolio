@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>پورتفولیوی من</title>
+    <style>
+        body { font-family: Tahoma, sans-serif; background-color: #f4f4f9; color: #333; text-align: center; padding: 50px; }
+        .card { background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: inline-block; }
+        h1 { color: #007bff; }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h1>سلام، من دانشجو هستم!</h1>
+        <p>به وبسایت پورتفولیوی من خوش آمدید.</p>
+        <p>در حال یادگیری برنامه‌نویسی و وب‌سایت‌سازی هستم. 🚀</p>
+    </div>
+
+</body>
+</html>
